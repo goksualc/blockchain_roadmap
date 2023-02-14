@@ -5,7 +5,7 @@
 
 |Bitcoin - Yazılı İçerik |
 | :------------ |
-| [Bitcoin Whitepaper](http://https://bctr.org/wp-content/uploads/2019/03/türkçe_bitcoin.pdf "Bitcoin Whitepaper")  |
+| [Bitcoin Whitepaper](https://bitcoin.org/files/bitcoin-paper/bitcoin_tr.pdf "Bitcoin Whitepaper")  |
 | [Bitcoin'e Giriş](http://https://coinmarketcap.com/alexandria/tr/article/an-intro-to-bitcoin "Bitcoin'e Giriş") *(kaynak: coinmarketcap)*  |
 |[Bitcoin Nedir?](http://https://coinmarketcap.com/alexandria/tr/article/what-is-bitcoin "Bitcoin Nedir?") *(kaynak: coinmarketcap)*|
 |[Bitcoin hakkındaki en büyük 7 efsane](http://https://www.coinbase.com/tr/learn/crypto-basics/7-biggest-bitcoin-myths "Bitcoin hakkındaki en büyük 7 efsane") *(kaynak: coinbase)* |
