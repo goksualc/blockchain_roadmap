@@ -84,7 +84,7 @@ Yukarıdaki içeriklerden sonra blok zincir teknolojisine girişi tamamladıktan
 | Ethereum Yazılı Kaynaklar   |
 | :------------ |
 | [Dünyanın En Büyük Bilgisayarı: Ethereum’un Hikayesi](https://medium.com/t%C3%BCrkiye/d%C3%BCnyan%C4%B1n-en-b%C3%BCy%C3%BCk-bilgisayar%C4%B1-ethereumun-hikayesi-8c08a416b7bhttp:// "Dünyanın En Büyük Bilgisayarı: Ethereum’un Hikayesi") *(kaynak: Turan Sert)* |
-| [Bu Kontratlar Çok Akıllı: Ethereum Ve Akıllı Kontratlar](htthttps://medium.com/t%C3%BCrkiye/bu-kontratlar-%C3%A7ok-ak%C4%B1ll%C4%B1-ethereum-ve-ak%C4%B1ll%C4%B1-kontratlar-15525b13a9ecp:// "Bu Kontratlar Çok Akıllı: Ethereum Ve Akıllı Kontratlar") *(kaynak: Turan Sert)* |
+| [Bu Kontratlar Çok Akıllı: Ethereum Ve Akıllı Kontratlar](https://medium.com/t%C3%BCrkiye/bu-kontratlar-%C3%A7ok-ak%C4%B1ll%C4%B1-ethereum-ve-ak%C4%B1ll%C4%B1-kontratlar-15525b13a9ecp "Bu Kontratlar Çok Akıllı: Ethereum Ve Akıllı Kontratlar") *(kaynak: Turan Sert)* |
 |   |
 |   |
 
