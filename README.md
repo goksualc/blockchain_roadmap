@@ -9,6 +9,7 @@
 | [Bitcoin'e Giriş](http://https://coinmarketcap.com/alexandria/tr/article/an-intro-to-bitcoin "Bitcoin'e Giriş") *(kaynak: coinmarketcap)*  |
 |[Bitcoin Nedir?](http://https://coinmarketcap.com/alexandria/tr/article/what-is-bitcoin "Bitcoin Nedir?") *(kaynak: coinmarketcap)*|
 |[Bitcoin hakkındaki en büyük 7 efsane](http://https://www.coinbase.com/tr/learn/crypto-basics/7-biggest-bitcoin-myths "Bitcoin hakkındaki en büyük 7 efsane") *(kaynak: coinbase)* |
+|[Bitcoin ne tam olarak? ](http:/https://medium.com/turansert/bitcoin-ne-tam-olarak-ca9f376a2ece/ "Turan Sert") *(kaynak: Turan Sert)*  |
 |[Bitcoin Nedir?](http://https://www.coinbase.com/tr/learn/crypto-basics/what-is-bitcoin "Bitcoin Nedir?") *(kaynak: coinbase)* |
 |[Bitcoin Nedir?](http://https://www.coindeskturkiye.com/ogren/bitcoin-nedir-3029 "Bitcoin nedir?") *(kaynak: coindeskturkiye)* |
 
@@ -58,7 +59,7 @@
 | :------------ |
 | - [Emre Günen (*Cointelegraph*)](https://tr.cointelegraph.com/news/a-simple-explanation-of-what-is-blockchain-and-how-its-workshttp:// "Emre Günen (*Cointelegraph*)") *(En Sade Anlatımla Blockchain)* |
 | - [Devrim Danyal ](http://https://devrimdanyal.medium.com/blockchain-ve-dağıtılmış-defter-teknolojilerinin-temel-avantajları-6490828bb18a "Devrim Danyal") *(Blok Zinciri Teknolojisinin Avatantajları)*  |
-
+| - [Turan Sert](http:/https://medium.com/turansert/sahi-nedir-bu-blockchain-allah-a%C5%9Fk%C4%B1na-812a39ff5b9e/ "Turan Sert") *(Sahi nedir bu blockchain Allah aşkına?)*  |
 
 Yukarıdaki içeriklerden sonra blok zincir teknolojisine girişi tamamladıktan sonra yavaş yavaş detaya iniyoruz. 
 > Kriptoloji
