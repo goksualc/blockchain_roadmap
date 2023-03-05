@@ -1,4 +1,4 @@
-# Blockchain RoadMap
+# Blockchain'e Giriş
 ## Blockchain'den Önce 
 > Blok zincir teknolojisine derinlemesine girmeden önce blok zincir ile iç içe girmiş bazı konularla giriş yapmak istiyorum. Böylelikle kafanızda belirli bir taslak olduktan sonra giriş yapıyor olacaksınız: Bitcoin, Kripto Paralar, Web'in Serüveni.
 
@@ -112,14 +112,12 @@ Yukarıdaki içeriklerden sonra blok zincir teknolojisine girişi tamamladıktan
 
 > Kriptoloji
 Konsensus 
-madencilik
+Madencilik
 Akıllı Kontratlar
 DAO
 NFT
 Metaverse
 Hash Fonksiyonu
-Merkeziyetsiz Uygulamalar dapp
-validator
 Defi
 Layer 2 Teknolojileri
 Ethereum
@@ -130,11 +128,8 @@ Ethereum
 >**Development için proje inceleme**
 Ethereum Geliştiriciliği
 Solana Geliştiriciliği
-Starknet Geliştiriciliği
 Polygon Geliştiriciliği
 Avalanche Geliştiriciliği
-Cosmos Geliştiriciliği
-Cardano Geliştiriciliği
 NEAR Geliştiriciliği
 Polkadot Geliştiriciliği
 Aptos Geliştiriciliği
