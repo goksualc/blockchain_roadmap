@@ -1,4 +1,5 @@
 # Blockchain'e Giriş
+
 ## Blockchain'den Önce 
 > Blok zincir teknolojisine derinlemesine girmeden önce blok zincir ile iç içe girmiş bazı konularla giriş yapmak istiyorum. Böylelikle kafanızda belirli bir taslak olduktan sonra giriş yapıyor olacaksınız: Bitcoin, Kripto Paralar, Web'in Serüveni.
 
